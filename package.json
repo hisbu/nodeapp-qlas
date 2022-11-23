@@ -24,6 +24,6 @@
     "mysql": "github:mysqljs/mysql",
     "node-webhooks": "^1.4.2",
     "nodemailer": "^6.3.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
